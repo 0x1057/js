@@ -12,4 +12,4 @@ const d = a * b + b;
 const e = a * (b + b);
 const f = a * b / a;
 const g = b / a * a;
-console.log(a, b, c, d, e, f, g); // 2 10 102 30 40 10 10
+console.log(a, b, c, d, e, f, g); //2 10 102 30 40 10 10
