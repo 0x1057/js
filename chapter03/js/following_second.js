@@ -1,3 +1,0 @@
-/*
-Display the time one second later
-*/
